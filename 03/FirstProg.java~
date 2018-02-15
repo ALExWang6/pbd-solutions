@@ -1,0 +1,10 @@
+1 public class FirstProg{
+2     public static void main(String[] args){
+3	System.out.println("Mr. Gallo is great.");
+4	}
+5 }
+6
+
+
+
+
