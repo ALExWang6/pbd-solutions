@@ -22,8 +22,8 @@ public class NumbersAndMath{
 		System.out.println( 3 + 2 < 5 - 7 );
 
 		//outputs result of the two functions
-		System.out.println( "What is 3 + 2? " + ( 3 + 2 ) );
-		System.out.println( "What is 5 - 7? " + ( 5 - 7 ) );
+		System.out.println( "What is 3 + 2? " + ( 3.0 + 2 ) );
+		System.out.println( "What is 5 - 7? " + ( 5.0 - 7 ) );
 
 		System.out.println( "Oh, that's why it's false." );
 

@@ -1,4 +1,7 @@
 //Alex Wang Feb/14
+
+//I was right about what the slashes signify, and they are comments which explains what parts of the code does, while not affecting the code
+
 public class comments{
     public static void main(String[] args){
         
