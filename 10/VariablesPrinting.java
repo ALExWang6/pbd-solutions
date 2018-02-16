@@ -2,7 +2,7 @@
 
 public class VariablesPrinting {
     
-	public static void main( String[] args ) {
+	public static void main(String[] args) {
         
 	String name, eyes, teeth, hair;
         double age, height, weight;
@@ -21,14 +21,14 @@ public class VariablesPrinting {
         // transfer lbs to kg
         weight = weight * 0.45;
 
-        System.out.println( "Let's talk about " + name + "." );
-        System.out.println( "He's " + height + " cm tall." );
-        System.out.println( "He's " + weight + " kg heavy." );
-        System.out.println( "Actually, that's not too heavy." );
-        System.out.println( "He's got " + eyes + " eyes and " + hair + " hair." );
-        System.out.println( "His teeth are usually " + teeth + " depending on the coffee." );
+        System.out.println("Let's talk about " + name + ".");
+        System.out.println("He's " + height + " cm tall.");
+        System.out.println("He's " + weight + " kg heavy.");
+        System.out.println("Actually, that's not too heavy.");
+        System.out.println("He's got " + eyes + " eyes and " + hair + " hair.");
+        System.out.println("His teeth are usually " + teeth + " depending on the coffee.");
 
         // This line is tricky; try to get it exactly right.
-        System.out.println( "If I add " + age + ", " + height + ", and " + weight + " I get " + (age + height + weight) + "." );
+        System.out.println("If I add " + age + ", " + height + ", and " + weight + " I get " + (age + height + weight) + ".");
     }
 }
